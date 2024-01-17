@@ -1,0 +1,19 @@
+{
+  "name": "secure-coding-practices",
+  "version": "1.0.0",
+  "description": "Secure Coding Practices in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "basicsstrong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "luxon": "^3.3.0",
+    "pg": "^8.11.0",
+    "sanitize-html": "^2.11.0"
+  },
+  "type": "module"
+}

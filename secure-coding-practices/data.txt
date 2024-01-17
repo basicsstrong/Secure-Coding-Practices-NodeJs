@@ -1,0 +1,6 @@
+{
+    "name": function hey(){
+        console.log("Hey there")
+    }(),
+    "age": 18
+}
